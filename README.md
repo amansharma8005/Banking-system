@@ -1,1 +1,2 @@
 # Banking-system
+The banking system project in Java is a secure and efficient application that facilitates banking operations like account management, transactions, and customer services. It ensures data integrity, confidentiality, and reliability, adhering to industry standards and regulations. The system incorporates features such as user authentication, transaction processing, balance management, and reporting to provide a comprehensive banking solution.
